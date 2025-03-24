@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72326385843",
+    "project_id": "college-bus-app-427ff",
+    "storage_bucket": "college-bus-app-427ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72326385843:android:41b93fb3af21ca6c0ce0c6",
+        "android_client_info": {
+          "package_name": "collegebusroute.collegecommute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlqc5B08cxHHtY284lEeuDCeTE1gxXOx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72326385843:android:cac3391288dd4da30ce0c6",
+        "android_client_info": {
+          "package_name": "com.collegebusroute.collegecommute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlqc5B08cxHHtY284lEeuDCeTE1gxXOx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
